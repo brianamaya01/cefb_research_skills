@@ -1,62 +1,64 @@
 "tipo_habilidad","habilidad","cantidad"
 "blanda","Honestidad",11
+"blanda","Amor por el Aprendizaje",6
 "blanda","Bondad",6
 "blanda","Entusiasmo",6
-"blanda","Amor por el Aprendizaje",5
+"blanda","Equidad",6
 "blanda","Autorregulación",5
-"blanda","Equidad",5
 "blanda","Humildad",5
 "blanda","Perserverancia",5
+"blanda","Prudencia",5
 "blanda","Sentido del Humor",5
 "blanda","Amar",4
 "blanda","Curiosidad",4
 "blanda","Empatía y asertividad",4
 "blanda","Esperanza",4
 "blanda","Liderazgo",4
-"blanda","Prudencia",4
+"blanda","Trabajo en equipo",4
 "blanda","Conectar personas",3
 "blanda","Espiritualidad",3
 "blanda","Gratitud",3
 "blanda","Perdón",3
-"blanda","Trabajo en equipo",3
 "blanda","Aprecio de la Belleza y la Excelencia",2
 "blanda","Juicio",2
+"blanda","Valentía",2
 "blanda","Comunicación efectiva (verbal",1
 "blanda","Creatividad",1
 "blanda","Establecer alianzas",1
 "blanda","Inteligencia Social",1
 "blanda","Negociación y resolución de conflictos.",1
 "blanda","Perspectiva",1
-"blanda","Valentía",1
 "blanda","escrita",1
 "blanda","no verbal)",1
-"conocimiento","Mecanismos financieros",10
+"conocimiento","Mecanismos financieros",11
 "conocimiento","Mercado",9
 "conocimiento","Agricultura regenerativa",8
 "conocimiento","Agroecología",8
-"conocimiento","Cadenas de valor",7
-"conocimiento","Ganadería regenerativa",7
+"conocimiento","Cadenas de valor",8
+"conocimiento","Ganadería regenerativa",8
 "conocimiento","Redes de valor",7
 "conocimiento","Bionegocios",6
+"conocimiento","Biotecnología",6
 "conocimiento","Ecosistemas",6
 "conocimiento","Turismo cientifíco de naturaleza",6
-"conocimiento","Biotecnología",5
+"conocimiento","Economía",5
+"conocimiento","Negocios verdes",5
 "conocimiento","PFNM",5
-"conocimiento","Economía",4
 "conocimiento","Ingredientes naturales",4
 "conocimiento","Modelos de negocio",4
-"conocimiento","Negocios verdes",4
 "conocimiento","Restauración",3
 "conocimiento","Administración",1
+"técnica","Análisis y evaluación de riesgos",8
 "técnica","Caracterización de recursos biológicos",8
 "técnica","Investigación de mercados emergentes",8
 "técnica","Mapeos de cadenas de valor",8
-"técnica","Análisis y evaluación de riesgos",7
 "técnica","Cumplimiento de normativas y certificaciones de calidad",7
 "técnica","Escalamiento de bioprocesos industriales.",7
 "técnica","Modelos matemáticos",7
 "técnica","Análisis de cadenas financieras.",6
 "técnica","Diseñar de bioproductos o bioprocesos",6
+"técnica","Diseño de instrumentos financieros",6
+"técnica","Diseño de policultivos y sistemas agroforestales",6
 "técnica","Evaluación de impacto ambiental",6
 "técnica","Gestión de sistemas de certificación",6
 "técnica","Realización de estudios de mercado",6
@@ -64,27 +66,25 @@
 "técnica","Análisis de ciclo de vida",5
 "técnica","Análisis de factibilidad",5
 "técnica","Caracterización química",5
-"técnica","Diseño de instrumentos financieros",5
-"técnica","Diseño de policultivos y sistemas agroforestales",5
+"técnica","Diseño de estrategias de sostenibilidad",5
 "técnica","Implementación de bonos verdes o climáticos",5
 "técnica","Implementación de prácticas agroecológicas",5
+"técnica","Mapeo de politicas y normativas",5
 "técnica","Uso de herramientas SIG",5
 "técnica","bioquímica y/o microbiológica",5
 "técnica","Desarrollar sistemas agroforestales",4
-"técnica","Diseño de estrategias de sostenibilidad",4
 "técnica","Diseño de procesos de producción y transformación",4
 "técnica","Extracción y purificación de compuestos bioactivos (downstream)",4
-"técnica","Mapeo de politicas y normativas",4
+"técnica","Gestión integral del agua",4
 "técnica","Optimización de procesos",4
 "técnica","Planificación de uso sostenible del suelo y recursos hídricos",4
 "técnica","Procesamiento y comercialización de productos",4
 "técnica","Programación",4
 "técnica","Transferencia tecnológica",4
+"técnica","Visualización de datos",4
+"técnica","suelos y nutrientes",4
 "técnica","Diseño de modelos de negocios",3
 "técnica","Gestión de residuos",3
-"técnica","Gestión integral del agua",3
-"técnica","Visualización de datos",3
-"técnica","suelos y nutrientes",3
 "técnica","Análisis costo-beneficio",2
 "técnica","Análisis estadístico",2
 "técnica","Aplicación de herramientas para inclusión financiera",2
@@ -96,7 +96,7 @@
 "técnica","Manejo de talleres y eventos",2
 "técnica","Recolección de datos",2
 "técnica","Transformación de recursos biológicos",2
+"técnica","Uso de herramientas bioinformáticas",2
 "técnica","Uso de herramientas de valoración económica o ecosistémica",2
 "técnica","Formulación de proyectos",1
-"técnica","Uso de herramientas bioinformáticas",1
 "técnica","Uso y aplicación de tecnologías emergentes o 4.0",1
