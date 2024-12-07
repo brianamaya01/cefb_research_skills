@@ -6,6 +6,11 @@ format:
     css: styles.css
 ---
 
+```{r}
+#| echo: false
+source("form.R")
+```
+
 ```{ojs}
 //| output: false
 d3 = require("d3@7")
