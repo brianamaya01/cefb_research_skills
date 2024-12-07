@@ -1,0 +1,44 @@
+/* Cambiar el color de fondo de la barra de navegación */
+.navbar {
+    background-color: #022951 !important; /* Cambia el color aquí */
+  }
+  
+  /* Cambiar el color del texto en la barra de navegación */
+  .navbar .nav-link {
+    color: #ffffff !important;
+  }
+  
+  /* Cambiar el color al pasar el cursor por los enlaces */
+  .navbar .nav-link:hover {
+    color: #cccccc !important;
+  }
+.navbar .nav-item .nav-link.active {
+  background-color: #ff6600 !important; /* Cambia a naranja */
+  color: #ffffff !important; /* Cambia el color del texto a blanco */
+}
+
+/* Cambiar el color al pasar el cursor sobre la pestaña activa */
+.navbar .nav-item .nav-link.active:hover {
+  background-color: #e65c00 !important; /* Un tono más oscuro al pasar el cursor */
+  color: #ffffff !important; /* Mantén el color del texto blanco */
+}
+
+/* Asegurarse de que el enlace no tenga bordes adicionales */
+.navbar .nav-item .nav-link.active {
+  border: none !important;
+  border-radius: 4px; /* Opcional: bordes redondeados */
+}
+
+table thead th {
+    background-color: #003366 !important; /* Azul seleccionado */
+    color: #ffffff !important; /* Texto blanco */
+    text-align: left; /* Alineación opcional */
+    font-weight: bold; /* Texto en negrita para mayor legibilidad */
+    border: 1px solid #003366; /* Opcional: bordes del mismo color que el fondo */
+  }
+  
+  /* Cambiar el color del texto al pasar el cursor sobre el encabezado */
+  table thead th:hover {
+    background-color: #002244 !important; /* Un tono más oscuro al pasar el cursor */
+    color: #ffffff !important; /* Mantén el texto blanco */
+  }
