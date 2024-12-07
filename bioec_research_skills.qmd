@@ -11,37 +11,6 @@ image: "bioeconomy_enabling_networks.png"
 toc: true
 ---
 
-
-In Colombia, various Science, Technology, and Innovation (STI) networks have emerged as pivotal enablers for the bioeconomy, even when not directly dedicated to it. These networks provide supportive conditions that strengthen bioeconomic initiatives across different phases of development. Understanding and categorizing these networks allows for a clearer view of how bioeconomy-supportive platforms evolve and impact the sector. The following categories highlight the stages, thematic focuses, and research lines relevant to these platforms.
-
-## Phases
-The strengthening of the bioeconomy can be categorized into the following phases:
-
-| Phase Types       | Definition                                                                                               |
-| ----------------- | -------------------------------------------------------------------------------------------------------- |
-| Ideation          | Platforms that originated as ideas but had limited influence on the bioeconomy                           |
-| Planning          | Platforms presenting a structured pathway aimed at supporting the bioeconomy                             |
-| Scaling           | Platforms that provide planning and scale up bioeconomy-associated businesses                            |
-| Execution         | Platforms that deploy resources to scale and support bioeconomy-focused businesses                       |
-| Consolidation     | Platforms that stabilize and strengthen bioeconomy-related businesses                                    |
-
-
-## Thematic Focus
-Thematic focus refers to the function or role that each platform plays in fulfilling the mission of its respective project, categorized as follows:
-
-| Thematic Types  | Definition                                                                                              |
-| ----------------| ------------------------------------------------------------------------------------------------------- |
-| Connects        | Platforms aimed at connecting stakeholders and information to strengthen the bioeconomy                 |
-| Tools           | Platforms that connect and create tools to facilitate bioeconomic actions                               |
-| Accelerates     | Platforms that connect, provide tools, and mobilize resources to accelerate bioeconomic enterprises     |
-
-
-## Research Lines
-Research lines represent the economic sectors each platform targets, grounded in the core mission of each project. (For better visualization, select the research lines that most capture your interest.)
-
-This framework outlines the structure of Colombia’s enabling networks for the bioeconomy, showcasing how various STI networks contribute to fostering and accelerating bioeconomic growth across distinct phases and through specialized thematic roles and research initiatives.
-
-
 ## Tool
 
 ```{ojs}
@@ -50,7 +19,6 @@ d3 = require("d3@7")
 navio_npm = require("navio@0.0.75")
 Inputs = require("@observablehq/inputs")
 htl = require("htl")
-
 ```
 
 ```{ojs}
