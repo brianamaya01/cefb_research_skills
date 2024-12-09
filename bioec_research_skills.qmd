@@ -1,5 +1,5 @@
 ---
-title: "CEFB - Habilidades"
+title: "CEFB"
 format: 
   dashboard:
     theme: journal
