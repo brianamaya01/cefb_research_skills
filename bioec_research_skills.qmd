@@ -668,8 +668,6 @@ chart = {
       .on("drag", dragged)
       .on("end", dragended);
   }
-
-
   invalidation.then(() => simulation.stop());
   ticked();
 
