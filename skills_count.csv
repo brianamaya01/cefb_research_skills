@@ -1,19 +1,112 @@
 "tipo_habilidad","habilidad","cantidad"
-"blanda","Amar",1
-"blanda","Honestidad",1
-"blanda","Inteligencia Social",1
-"blanda","Liderazgo",1
-"blanda","Perserverancia",1
-"blanda","Valentía",1
-"conocimiento","Cadenas y/o redes de valor",1
-"conocimiento","Economía",1
-"conocimiento","Ecosistemas",1
+"blanda","Adaptabilidad / Resiliencia",16
+"blanda","Trabajo en equipo",13
+"blanda","Amor por el aprendizaje",12
+"blanda","Honestidad",9
+"blanda","Agilidad / Practicidad",8
+"blanda","Curiosidad",8
+"blanda","Comunicación efectiva",6
+"blanda","Gratitud",6
+"blanda","Creatividad",5
+"blanda","Negociación / Persuasión / Resolución de conflictos",5
+"blanda","Pensamiento sistémico",5
+"blanda","Entusiasmo",4
+"blanda","Humildad",4
+"blanda","Aprecio de la belleza y la excelencia",3
+"blanda","Espiritualidad",3
+"blanda","Liderazgo",3
+"blanda","Perserverancia",3
+"blanda","Perspectiva",3
+"blanda","Sentido del Humor",3
+"blanda","Tomar riesgos / Desafiar",3
+"blanda","Autorregulación",2
+"blanda","Equidad",2
+"blanda","Inteligencia Social",2
+"blanda","Juicio",1
+"blanda","Perdón",1
+"blanda","Prudencia",1
+"conocimiento","Cadenas y/o redes de valor",10
+"conocimiento","Administración",8
+"conocimiento","Economía",7
+"conocimiento","Ingredientes naturales",7
+"conocimiento","Negocios verdes",7
+"conocimiento","Bionegocios",6
+"conocimiento","Mecanismos / Instrumentos financieros",6
+"conocimiento","Mercado",6
+"conocimiento","Agroecología",5
+"conocimiento","Ganadería regenerativa",5
+"conocimiento","Retornos a la conservación y bienestar",5
+"conocimiento","Activos bioculturales",4
+"conocimiento","Especies",4
+"conocimiento","Turismo cientifíco de naturaleza",4
+"conocimiento","Agricultura regenerativa",3
+"conocimiento","PFNM",3
+"conocimiento","Biotecnología",2
+"conocimiento","Ecosistemas",2
+"conocimiento","Restauración",2
+"conocimiento","Bioprospección",1
+"conocimiento","Comunicación",1
+"conocimiento","Estrategia de sostenibilidad",1
+"conocimiento","Finanzas",1
+"conocimiento","Geomática y Sig",1
+"conocimiento","Gestión de conocimiento",1
+"conocimiento","Manejo sostenible de suelos",1
+"conocimiento","Metodologías de monitoreo general de biodiversidad",1
+"conocimiento","Trabajo con comunidades",1
+"técnica","Facilitación de talleres y eventos",11
+"técnica","Formulación y gestión de proyectos",11
+"técnica","Diseño de modelos de negocios",10
+"técnica","Análisis de cadenas/redes de valor",9
+"técnica","Emprendimiento",9
+"técnica","Diseño de estrategias / planes de acción",7
+"técnica","Implementación de prácticas sostenibles",7
+"técnica","Planificación / ordenamiento territorial",7
+"técnica","Análisis costo-beneficio",6
+"técnica","Diseño de sistemas productivos",6
+"técnica","Evaluación de impacto",6
+"técnica","Análisis estadístico",5
+"técnica","Comunicación científica",5
+"técnica","Diseño de procesos de producción y transformación",5
+"técnica","Gestión integral de recursos",5
+"técnica","Inteligencia competitiva",5
+"técnica","Análisis de ciclo de vida",4
+"técnica","Análisis y evaluación de riesgos",4
+"técnica","Diseño e implementación de instrumentos financieros",4
+"técnica","Realización de estudios de mercado",4
+"técnica","Recolección de datos",4
+"técnica","Técnicas de recolección de datos cualitativos",4
+"técnica","Uso de herramientas SIG",4
+"técnica","Ventas y/o comercialización de productos",4
+"técnica","Análisis de políticas normativas certificaciones",3
+"técnica","Análisis de redes sociales (stakeholder analysis)",3
+"técnica","Construcción de bioindicadores",3
+"técnica","Cooperación internacional",3
+"técnica","Desarrollo de marca y/o estrategias de marketing",3
+"técnica","Desarrollo de modelos de financiación",3
+"técnica","Diseño de bioproductos",3
+"técnica","Diseño de instrumentos financieros",3
+"técnica","Escalamiento",3
+"técnica","Identificación y priorización de especies útiles",3
+"técnica","Implementación de bonos verdes o sus semejantes",3
+"técnica","Planeación estratégica",3
+"técnica","Uso de herramientas de valoración económica o ecosistémica",3
+"técnica","Visualización de datos",3
+"técnica","Caracterización química bioquímica y/o microbiológica de recursos biológicos",2
+"técnica","Investigación de mercados emergentes",2
+"técnica","Movilizar recursos de cualquier tipo",2
+"técnica","Programación",2
+"técnica","Prototipado",2
+"técnica","Storytelling",2
+"técnica","Tomar riesgos",2
+"técnica","Uso y aplicación de metodologías ágiles",2
+"técnica","Uso y aplicación de tecnologías emergentes o 4.0",2
 "técnica","Análisis de (pre)factibilidad",1
-"técnica","Desarrollo de marca y/o estrategias de marketing",1
-"técnica","Diseño de bioproductos",1
-"técnica","Diseño de instrumentos financieros",1
-"técnica","Diseño de sistemas productivos (p.ej.: agroforestales policultivos)",1
-"técnica","Escalamiento",1
-"técnica","Planificación / ordenamiento territorial",1
-"técnica","Uso y aplicación de tecnologías emergentes o 4.0",1
-"técnica","Visualización de datos",1
+"técnica","Estrategia de sostenibilidad",1
+"técnica","Extracción y purificación de compuestos bioactivos",1
+"técnica","Facilitación de co-creación y otros",1
+"técnica","Gestión de residuos",1
+"técnica","Optimización de procesos",1
+"técnica","Técnicas analíticas y de laboratorio",1
+"técnica","Uso de herramientas bioinformáticas",1
+"técnica","Vigilancia tecnológica",1
+"técnica","esquemas de certificación turismo e interpretación del patrimonio natural",1
